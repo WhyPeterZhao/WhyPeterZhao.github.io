@@ -96,7 +96,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/lit.png' alt="sym" height="200px" width=auto></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/lit.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality**
@@ -128,11 +128,11 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 - The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025 Oral).
 - [**Arxiv**](https://arxiv.org/pdf/2509.12776)
 </div>
-</div>
+</div> -->
 
 
 
-## Recommender System
+<!-- ## Recommender System
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ss4rec.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,37 +156,37 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 - [**Paper**](https://link.springer.com/article/10.1007/s10994-024-06658-0) | 
 [**Code**](https://github.com/XiaoWei-i/PT4Rec)
 </div>
-</div>
+</div> -->
 
 # Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/projects/kaiwu.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awards/iot.jpg' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
-**The 22nd "Huawei Cup" China Postgraduate Mathematical Modeling Competition**
+**The 22nd HUAWEI CUP China Postgraduate Mathematical Modeling Competition**
 
-<!-- Team: 南强至善- **Wei Xiao***, Yifang Lin, Jinyang Lai, Huaming Xu, Zejie Jiang, [Yunlong Liu](https://yunlongliu.github.io/)† -->
+Team: **Yanping Zhao***, Xiying Chen, Jia Ma
 - National Second Prize - *2025.11* 
 <!-- - [**Leaderboard**](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002) -->
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gif/car.gif' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awards/iot.jpg' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
-**The 17th National Smart Car Competition for University Students**
+**2024 HUAWEI CUP National Undergraduate IOT Design Contest**
 
-Team: 南强至善- **Wei Xiao***, Tianhao Hu, Yuhang Liu, Jincai Luo†
-- The Second Prize in South Region - *2022.07*
-- [**Technical Blog**](https://zhuanlan.zhihu.com/p/672741107) | 
+Team: Tiantian Lin, Yirun He, **Yanping Zhao***, Shuyang Fu, Lei Jiang†, Jie Lu†
+- First Prize in Final Contest - *2024.08*
+<!-- - [**Technical Blog**](https://zhuanlan.zhihu.com/p/672741107) | 
 [**Video1**](https://www.bilibili.com/video/BV1ca411u7DV/) | 
-[**Video2**](https://www.bilibili.com/video/BV1tZ4y1471m/)
+[**Video2**](https://www.bilibili.com/video/BV1tZ4y1471m/) -->
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='awards/awards.png' alt="sym" height="200px" width=auto></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='awards/awards.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 - The 13th Mathorcup Mathematical Modelling Competition, Third prize.
 - Huawei Software Elite Challenge, Third Prize.
@@ -194,7 +194,7 @@ Team: 南强至善- **Wei Xiao***, Tianhao Hu, Yuhang Liu, Jincai Luo†
 - National Algorithm Competition for College Students, Excellence Award.
 - and so on.
 </div>
-</div>
+</div> -->
 
 # Visitors
 <div style="text-align:center; margin: auto; width: 28%;">
