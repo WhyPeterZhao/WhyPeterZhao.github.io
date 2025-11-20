@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wei Xiao's Homepage"
-description              : "I like Slow Science"
-repository               : "XiaoWei-i/XiaoWei-i.github.io"
+title                    : "Yanping ZHAO's Homepage"
+description              : "MS Student"
+repository               : "whypeterzhao/whypeterzhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wei Xiao-肖巍"
+  name             : "Yanping ZHAO (赵彦平)"
   avatar           : "images/head.jpg"
-  bio              : "Xiamen University"
-  location         : "Hangzhou, China"
+  bio              : "Tongji University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.cz/citations?user=kvcrdlUAAAAJ&hl=zh-CN"
-  email            : "xiaowei2002103@foxmail.com"
+  googlescholar    : # "https://scholar.google.cz/citations?user=kvcrdlUAAAAJ&hl=zh-CN"
+  email            : "zyp2150241@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XiaoWei-i" # e.g., "github username"
+  github           : "WhyPeterZhao" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,8 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "xiao-wei-7-38"
-  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/6062aa97000000000100857a"
+  zhihu            : "2lpkhq"
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/640b4b02000000001f032667"
 
 
 # Reading Files

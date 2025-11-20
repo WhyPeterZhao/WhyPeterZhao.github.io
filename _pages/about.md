@@ -26,7 +26,8 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-    Hi! I'm <strong>Wei Xiao (肖巍)</strong>, currently working with <a href="https://yaomarkmu.github.io/" target="_blank">Yao (Mark) Mu</a> in <a href="https://scalelab-sjtu.github.io/" target="_blank">ScaleLab@SJTU</a>. Previously, I was a Research Assistant at 
+    Hi! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a Master Student at TiEV, Tongji University advised by Junqiao Zhao. 
+    <!-- currently working with <a href="https://yaomarkmu.github.io/" target="_blank">Yao (Mark) Mu</a> in <a href="https://scalelab-sjtu.github.io/" target="_blank">ScaleLab@SJTU</a>. Previously, I was a Research Assistant at 
     <a href="https://milab.westlake.edu.cn/index.html" target="_blank">MiLab</a>, 
     <a href="https://www.westlake.edu.cn/" target="_blank"><strong>Westlake University</strong></a> 
     advised by 
@@ -34,7 +35,7 @@ redirect_from:
     I got my B.Eng in Automation from 
     <a href="https://www.xmu.edu.cn/" target="_blank"><strong>Xiamen University</strong></a> 
     advised by 
-    <a href="https://scholar.google.com/citations?user=yLQpYYYAAAAJ" target="_blank">Qifeng Zhou</a>.
+    <a href="https://scholar.google.com/citations?user=yLQpYYYAAAAJ" target="_blank">Qifeng Zhou</a>. -->
   </span>
   <!-- <img src="images/head_.jpg" alt="Head" style="height:164px; margin-left:10px;"> -->
 </div>
