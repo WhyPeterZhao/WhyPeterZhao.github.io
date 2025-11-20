@@ -26,7 +26,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-    Hi👋! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a first-year master’s student at Tongji University supervised by Prof.Junqiao Zhao. I am interested in reinforcement learning, LLM reasoning and embodied intelligence, with a focus on improving agent generalization in dynamic environments. Ultimately, I aim to build generalizable action models to enable intelligent and versatile robot behaviors.
+    Hi👋! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a first-year master’s student at Tongji University supervised by Prof.Junqiao Zhao. I am interested in reinforcement learning, embodied intelligence, with a focus on improving agent generalization in dynamic environments. Ultimately, I aim to build generalizable action models to enable intelligent and versatile robot behaviors.
     <!-- currently working with <a href="https://yaomarkmu.github.io/" target="_blank">Yao (Mark) Mu</a> in <a href="https://scalelab-sjtu.github.io/" target="_blank">ScaleLab@SJTU</a>. Previously, I was a Research Assistant at 
     <a href="https://milab.westlake.edu.cn/index.html" target="_blank">MiLab</a>, 
     <a href="https://www.westlake.edu.cn/" target="_blank"><strong>Westlake University</strong></a> 
@@ -85,13 +85,17 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 ## Embodied AI & RL
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/porl.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/astro.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Efficient Online RL Fine-Tuning with Offline Pre-trained Policy Only**
+**ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**
 
-**Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)†
-- [**Arxiv**](https://arxiv.org/abs/2505.16856)
+Hang Yu, Di Zhang, Qiwei Du, **Yanping Zhao**, Hai Zhang, Guang Chen, Junqiao Zhao†, Eduardo E. Veas†
+
+- *under preview*
+
+<!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
+<!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
 </div>
 </div>
 
@@ -160,7 +164,7 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 
 # Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awards/iot.jpg' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awards/sxjm.jpg' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The 22nd HUAWEI CUP China Postgraduate Mathematical Modeling Competition**
