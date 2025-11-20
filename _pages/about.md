@@ -26,7 +26,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-    Hi! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a Master Student at TiEV, Tongji University advised by Junqiao Zhao. 
+    Hi👋! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a first-year master’s student at Tongji University supervised by Prof.Junqiao Zhao. I am interested in reinforcement learning, LLM reasoning and embodied intelligence, with a focus on improving agent generalization in dynamic environments. Ultimately, I aim to build generalizable action models to enable intelligent and versatile robot behaviors.
     <!-- currently working with <a href="https://yaomarkmu.github.io/" target="_blank">Yao (Mark) Mu</a> in <a href="https://scalelab-sjtu.github.io/" target="_blank">ScaleLab@SJTU</a>. Previously, I was a Research Assistant at 
     <a href="https://milab.westlake.edu.cn/index.html" target="_blank">MiLab</a>, 
     <a href="https://www.westlake.edu.cn/" target="_blank"><strong>Westlake University</strong></a> 
@@ -40,12 +40,12 @@ redirect_from:
   <!-- <img src="images/head_.jpg" alt="Head" style="height:164px; margin-left:10px;"> -->
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
   I am looking for research collaborations and a PhD position starting from <strong>2026 Fall</strong>.
   Please drop me an email if you are interested in my research or just want to chat! Email: <strong>xiaowei2002103@foxmail.com</strong>
   </span>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
@@ -58,28 +58,28 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-    - <em>2021.7-2024.7</em>: Bachelor of Engineering - Major in Automation, Xiamen University<br>
-    - <em>2020.9-2021.7</em>: Major in Biology, Xiamen University
+    - <em>2025.9-Now</em>: Master of Computer Science and Technology, Tongji University<br>
+    - <em>2021.9-2025.7</em>: Bachelor of Computer Science and Technology, Tongji University
   </span>
-  <img src="images/xmu.jpg" alt="Xiamen University" style="height:64px; margin-left:10px;">
+  <img src="images/tju.png" alt="Tongji University" style="height:64px; margin-left:10px;">
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">- <em>2024.7-2025.6</em>: Research Assistant in Machine Intelligence Lab (MiLAB), Westlake University</span>
   <img src="images/westlake.png" alt="Westlake University" style="height:64px; margin-left:10px;">
-</div>
+</div> -->
 
-<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">- <em>2025.6-Now</em>: Research Intern in Spatial Cognition and Robotic Automative Learning Laboratory (ScaleLAB), Shanghai Jiao Tong University</span>
   <img src="images/sjtu.png" alt="Shanghai Jiao Tong University" style="height:70px; margin-left:10px;">
-</div>
+</div> -->
 
-# News
+<!-- # News
 <span class='anchor' id='-news'></span>
 - *2025.7*: &nbsp;⭐ A summary of VLA+RL - [Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL) - is available in Github.
 - *2025.5*: &nbsp;🎉 Our works [PORL](https://arxiv.org/abs/2505.16856) and [LIT](https://arxiv.org/abs/2503.10484v1) are available in arxiv.
 - *2024.11*: &nbsp;🎉 Homepage has been set up.
-- *2024.09*: &nbsp;🎉 Our paper [PT4Rec](https://link.springer.com/article/10.1007/s10994-024-06658-0) is accepted by ACML2024 and Machine Learning Journal.
+- *2024.09*: &nbsp;🎉 Our paper [PT4Rec](https://link.springer.com/article/10.1007/s10994-024-06658-0) is accepted by ACML2024 and Machine Learning Journal. -->
 
 # Publications 
 <span class='anchor' id='-publications'></span>
