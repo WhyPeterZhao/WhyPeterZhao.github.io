@@ -163,11 +163,11 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/projects/kaiwu.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Tencent Kaiwu Reinforcement Learning Competition**
+**The 22nd "Huawei Cup" China Postgraduate Mathematical Modeling Competition**
 
-Team: 南强至善- **Wei Xiao***, Yifang Lin, Jinyang Lai, Huaming Xu, Zejie Jiang, [Yunlong Liu](https://yunlongliu.github.io/)†
-- Fourth Place (with Bonus ￥20,000) - *2023.12* 
-- [**Leaderboard**](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002)
+<!-- Team: 南强至善- **Wei Xiao***, Yifang Lin, Jinyang Lai, Huaming Xu, Zejie Jiang, [Yunlong Liu](https://yunlongliu.github.io/)† -->
+- National Second Prize - *2025.11* 
+<!-- - [**Leaderboard**](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002) -->
 </div>
 </div>
 
@@ -198,5 +198,5 @@ Team: 南强至善- **Wei Xiao***, Tianhao Hu, Yuhang Liu, Jincai Luo†
 
 # Visitors
 <div style="text-align:center; margin: auto; width: 28%;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=uv7I6l6Tw7u_u34GssyddVANareB9fV10yJt7Bw0q80"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dAcb2_BoXDEP42aMIh1ZNj-pstz0Q-KSFcWpECxil0E"></script>
 </div>
