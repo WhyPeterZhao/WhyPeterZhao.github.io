@@ -169,7 +169,7 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 
 **The 22nd HUAWEI CUP China Postgraduate Mathematical Modeling Competition**
 
-Team: **Yanping Zhao***, Xiying Chen, Jia Ma
+Team: **Yanping Zhao**, Xiying Chen, Jia Ma
 - National Second Prize - *2025.11* 
 <!-- - [**Leaderboard**](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/news/b751f28065b7904f0913004a6c413002) -->
 </div>
@@ -181,7 +181,7 @@ Team: **Yanping Zhao***, Xiying Chen, Jia Ma
 
 **2024 HUAWEI CUP National Undergraduate IOT Design Contest**
 
-Team: Tiantian Lin, Yirun He, **Yanping Zhao***, Shuyang Fu, Lei Jiang†, Jie Lu†
+Team: Tiantian Lin, Yirun He, **Yanping Zhao**, Shuyang Fu, Lei Jiang†, Jie Lu†
 - First Prize in Final Contest - *2024.08*
 <!-- - [**Technical Blog**](https://zhuanlan.zhihu.com/p/672741107) | 
 [**Video1**](https://www.bilibili.com/video/BV1ca411u7DV/) | 
