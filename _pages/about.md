@@ -165,14 +165,7 @@ Renjie Wang*, [Shangke Lyu](https://lsk-robot.github.io/)†, Xin Lang, **Wei Xi
 # Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
-<!-- <img src='images/awards/sxjm.jpg' alt="sym" height="200px" width=auto> -->
-      <!-- 替换img为embed标签嵌入PDF -->
-      <embed src='images/awards/sxjm.pdf'
-        type="application/pdf" 
-        height="200px"
-        width=auto
-        alt="sym"
-      >
+<img src='images/awards/sxjm.png' alt="sym" height="200px" width=auto>
 </div></div>
 <div class='paper-box-text' markdown="1">
 
