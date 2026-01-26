@@ -106,9 +106,9 @@ Qingjun Wang, Hongtu Zhou, Hang Yu, Junqiao Zhao, **Yanping Zhao**, Chen Ye, Ziq
 
 **ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**
 
-Hang Yu, Di Zhang, Qiwei Du, **Yanping Zhao**, Hai Zhang, Guang Chen, Junqiao Zhao†, Eduardo E. Veas†
+Hang Yu, Di Zhang, Qiwei Du, **Yanping Zhao**, Hai Zhang, Guang Chen, Eduardo E. Veas, Junqiao Zhao
 
-- *under preview*
+- *under review*
 
 <!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
 <!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
