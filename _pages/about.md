@@ -85,6 +85,22 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 ## Embodied AI & RL
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/DOSER.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Penalization: Diffusion-based Out-of-Distribution Detection and Selective Regularization in Offline Reinforcement Learning**
+
+Qingjun Wang, Hongtu Zhou, Hang Yu, Junqiao Zhao, **Yanping Zhao**, Chen Ye, Ziqiao Wang, Guang Chen
+
+- ICLR 2026
+
+<!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
+<!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/astro.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
