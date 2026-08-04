@@ -26,7 +26,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-    Hi👋! I'm <strong>Yanping ZHAO (赵彦平)</strong>, a first-year master’s student at Tongji University supervised by Prof.Junqiao Zhao. I am interested in reinforcement learning, embodied intelligence, with a focus on improving agent generalization in dynamic environments. Ultimately, I aim to build generalizable action models to enable intelligent and versatile robot behaviors.
+    Hi👋! I'm <strong>Yanping Zhao (赵彦平)</strong>, a first-year master’s student at Tongji University supervised by Prof.Junqiao Zhao. 
     <!-- currently working with <a href="https://yaomarkmu.github.io/" target="_blank">Yao (Mark) Mu</a> in <a href="https://scalelab-sjtu.github.io/" target="_blank">ScaleLab@SJTU</a>. Previously, I was a Research Assistant at 
     <a href="https://milab.westlake.edu.cn/index.html" target="_blank">MiLab</a>, 
     <a href="https://www.westlake.edu.cn/" target="_blank"><strong>Westlake University</strong></a> 
@@ -49,7 +49,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <span style="flex:1;">
-  I like <strong>Embodied AI</strong>, <strong>Reinforcement Learning</strong>, and <strong>World Model</strong>. I am focusing on building end-to-end robots with <strong>Universality, Generalizability, and Robustness</strong>, utilizing learning‑based methods that scale with data and computation. I am currently passionate about <strong>Vision-Language-Action Models (VLAs)</strong>.
+  My research interests include <strong>Embodied AI</strong>, <strong>World Model</strong>, and <strong>Reinforcement Learning</strong>. My methodological preference is for approaches that are simple, clear, and extensible. I want to build robots with <strong>Generalizability, and Robustness</strong>. I am currently passionate about <strong>Vision-Language-Action Models (VLAs)</strong>. Feel free to reach out if you are interested in collaboration or potential opportunities. 
   </span>
 </div>
 
@@ -131,7 +131,7 @@ Qingjun Wang, Hongtu Zhou, Hang Yu, Junqiao Zhao, **Yanping Zhao**, Chen Ye, Ziq
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ASTRO.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/astro.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**
@@ -248,7 +248,7 @@ Team: Tiantian Lin, Yirun He, **Yanping Zhao**, Shuyang Fu, Lei Jiang†, Jie Lu
 </div>
 </div> -->
 
-# Visitors
+<!-- # Visitors
 <div style="text-align:center; margin: auto; width: 28%;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dAcb2_BoXDEP42aMIh1ZNj-pstz0Q-KSFcWpECxil0E"></script>
-</div>
+</div> -->
