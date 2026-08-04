@@ -84,7 +84,37 @@ redirect_from:
 # Publications 
 <span class='anchor' id='-publications'></span>
 
-## Embodied AI & RL
+## Embodied AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/GWM-VLA.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GWM-VLA: Geometry-Aware Latent World Modeling for Vision-Language-Action Learning**
+
+**Yanping Zhao**, Hang Yu, Yiwei Wang, Chen Ye, Siyu Tian, Di Zhang, Qingjun Wang, Qian Chen, Junqiao Zhao, Chen Ye, Guang Chen
+
+- under review
+
+<!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
+<!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
+</div>
+</div>
+
+## RL
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ACSAC.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ACSAC: Adaptive Chunk Size Actor-Critic with Causal Transformer Q-Network**
+
+Qian Chen, Junqiao Zhao, Hongtu Zhou, Hang Yu, **Yanping Zhao**, Chen Ye, Guang Chen 
+
+- under review
+
+<!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
+<!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/DOSER.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,7 +123,7 @@ redirect_from:
 
 Qingjun Wang, Hongtu Zhou, Hang Yu, Junqiao Zhao, **Yanping Zhao**, Chen Ye, Ziqiao Wang, Guang Chen
 
-- ICLR 2026
+- ICLR 2026 Poster
 
 <!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
 <!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
@@ -101,14 +131,14 @@ Qingjun Wang, Hongtu Zhou, Hang Yu, Junqiao Zhao, **Yanping Zhao**, Chen Ye, Ziq
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/astro.png' alt="sym" height="200px" width=auto></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ASTRO.png' alt="sym" height="200px" width=auto></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**
 
 Hang Yu, Di Zhang, Qiwei Du, **Yanping Zhao**, Hai Zhang, Guang Chen, Eduardo E. Veas, Junqiao Zhao
 
-- *under review*
+- RSS 2026 RoboData Workshop
 
 <!-- **Wei Xiao***, [Jiacheng Liu](https://jiachengliu3.github.io/), [Zifeng Zhuang](https://scholar.google.com/citations?user=-KANvNMAAAAJ&hl=zh-CN), Runze Suo, [Shangke Lyu](https://lsk-robot.github.io/)†, [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN)† -->
 <!-- - [**Arxiv**](https://arxiv.org/abs/2505.16856) -->
